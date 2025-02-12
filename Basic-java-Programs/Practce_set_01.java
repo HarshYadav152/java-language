@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class Practce_set_01 {
